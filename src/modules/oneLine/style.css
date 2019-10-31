@@ -1,0 +1,25 @@
+.element{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 50px 50px 50px;
+    grid-template-rows: 50px;
+    align-items: center;
+    justify-items: left;
+    border: solid #333 1px;
+    background: rgb(231, 231, 231);
+    font-weight: 600;
+    font-size: 25px;
+    white-space: nowrap;    
+}
+.element__name{
+    margin: 0 5px;
+}
+.element__name input{
+    border: none;
+    height: 50px;
+    width: min-content;
+    text-decoration: none;
+    background: #ffffff00;
+    outline: none;
+    font-size: 26px;
+}

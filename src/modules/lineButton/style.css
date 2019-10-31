@@ -1,0 +1,20 @@
+.Line__button{
+    border: solid rgba(51, 51, 51, 0);
+    border-width: 0 .5px;
+    box-sizing:unset;
+    transition: ease-out 0.2s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+}
+.Line__button img{
+    width: 50%;
+    height: 50%;
+}
+.Line__button:hover{
+    border: .5px solid rgba(51, 51, 51, 0.5);
+    border-width: 0 .5px;
+}
