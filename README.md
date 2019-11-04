@@ -12,6 +12,6 @@
 
 Пример использования: <br>
 В имеющееся состояние дерева, добавляем дочерний элементБ<br>
-![startState]("screen1.jpg")
+![startState]("https://github.com/mihan-pro/tree/blob/master/screen1.jpg")
 ![addClick]("screen2.jpg")
 ![finishState]("screen3.jpg")
