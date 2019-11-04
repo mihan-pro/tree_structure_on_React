@@ -12,6 +12,6 @@
 
 Пример использования: <br>
 В имеющееся состояние дерева, добавляем дочерний элементБ<br>
-![startState]("./screen1.jpg")
-![addClick]("./screen2.jpg")
-![finishState]("./screen3.jpg")
+![startState]("screen1.jpg")
+![addClick]("screen2.jpg")
+![finishState]("screen3.jpg")
